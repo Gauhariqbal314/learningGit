@@ -1,1 +1,2 @@
 this is my file one for Git course
+Adding more content to file 1
